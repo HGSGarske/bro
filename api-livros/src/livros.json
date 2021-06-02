@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "A Bíblia de Vendas",
+        "descricao": "O livro de vendas mais bem-sucedido e recomendado no Brasil",
+        "autor": "Jeffrey Gitomer",
+        "anoPublicacao": "2008"
+    },
+    {
+        "id": 2,
+        "titulo": "Copywriting",
+        "descricao": "O método centenário de escrita mais cobiçado do mercado americano",
+        "autor": "Paulo Maccedo",
+        "anoPublicacao": "2019"
+    }
+]
